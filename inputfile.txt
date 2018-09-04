@@ -1,0 +1,9 @@
+
+kappa= 200.0
+D= 100.0
+trees_to_average= 200
+
+sweep_variable= D
+sweep_count= 5
+sweep_variable_change= 10.0
+
