@@ -58,7 +58,7 @@ class roll_angles {
 	}
 	
 	private:
-	constexpr double two_pi = 6.28318530717959;
+	const double two_pi = 6.28318530717959;
 	double kappa;
 	double neg_inverse_kappa;
 	double inverse_kappa;
